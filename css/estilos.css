@@ -847,6 +847,11 @@ form .contaC {
   padding: 10px;
 }
 
+.seccionTres .itemsLugar p {
+  color: black;
+  font-size: 17px;
+}
+
 /* --------------------------------------------- boton up -------------------------------------------------------------- */
 .botonUp {
   margin: 10px;
